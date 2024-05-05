@@ -45,4 +45,4 @@ Questions:
 To do:
 1. Incorporate a database, models & schemas
 2. Incorporate Docker for local development, and figure out how to make it work with Toolforge
-3. Incorporate poetry (Slavina says it's still a good idea - but as with Toolhunt, will need to push the contents of the .toml to requirements.txt) 
+3. Incorporate poetry (but as with Toolhunt, will need to push the contents of the .toml to requirements.txt) 
